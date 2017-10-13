@@ -1,0 +1,8 @@
+C:\Users\tgomes\Documents\SharpDevelop Projects\insert2\insert2\obj\Debug\insert2.csprojResolveAssemblyReference.cache
+C:\Users\tgomes\Documents\SharpDevelop Projects\insert2\insert2\obj\Debug\insert2.MainForm.resources
+C:\Users\tgomes\Documents\SharpDevelop Projects\insert2\insert2\obj\Debug\insert2.csproj.GenerateResource.Cache
+C:\Users\tgomes\Documents\SharpDevelop Projects\insert2\insert2\bin\Debug\insert2.exe.config
+C:\Users\tgomes\Documents\SharpDevelop Projects\insert2\insert2\bin\Debug\insert2.exe
+C:\Users\tgomes\Documents\SharpDevelop Projects\insert2\insert2\bin\Debug\insert2.pdb
+C:\Users\tgomes\Documents\SharpDevelop Projects\insert2\insert2\obj\Debug\insert2.exe
+C:\Users\tgomes\Documents\SharpDevelop Projects\insert2\insert2\obj\Debug\insert2.pdb
